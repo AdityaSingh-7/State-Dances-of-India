@@ -2,7 +2,7 @@
 
 This project is an interactive map of India that displays information about various states when hovered over or clicked. Each state is linked to a specific page that provides more detailed information, such as state-specific images and data.
 
-## Features
+## Featu
 
 - **Interactive Map**: Hovering over each state highlights it and shows a popup with relevant information.
 - **State-specific Information**: When a state is clicked, users are directed to a page with more detailed data.
@@ -42,11 +42,7 @@ Here are some examples of the India Map and the popup in action:
 
 ### Full Map
 
-![India Map](/docs/India%20Map%20with%20pop%20up.png)
-
-### State Dance Example
-
-![Popup Example](/docs/State%20Dance%20page.png)
+![India Map](/docs/Screenshot 2024-12-14 014253.png)
 
 
 ## License
