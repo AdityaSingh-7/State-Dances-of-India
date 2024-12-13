@@ -42,7 +42,7 @@ Here are some examples of the India Map and the popup in action:
 
 ### Full Map
 
-![India Map](/docs/Screenshot 2024-12-14 014253.png)
+![India Map][/docs/Screenshot 2024-12-14 014253.png]
 
 
 ## License
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Contact
 
-If you have any questions or suggestions, feel free to create an issue or contact me via email: [your-email@example.com](adityakumarsingh710@gmail.com).
+If you have any questions or suggestions, feel free to create an issue or contact me via email: [adityakumarsingh710@gmail.com].
