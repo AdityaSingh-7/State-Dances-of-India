@@ -20,7 +20,7 @@ This project is an interactive map of India that displays information about vari
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/india-map.git
+    git clone https://github.com/AdityaSingh-7/State-Dances-of-India.git
     ```
 
 2. Navigate to the project directory:
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## Contact
 
-If you have any questions or suggestions, feel free to create an issue or contact me via email: [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to create an issue or contact me via email: [your-email@example.com](adityakumarsingh710@gmail.com).
