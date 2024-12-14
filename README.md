@@ -16,6 +16,9 @@ This project is an interactive map of India that displays information about vari
 - JavaScript
 - SVG for the map graphics
 
+## Deployed Page
+link:  https://adityasingh-7.github.io/State-Dances-of-India/
+
 ## Installation
 
 1. Clone the repository to your local machine:
